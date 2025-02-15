@@ -1,0 +1,33 @@
+name: Unzip 7z Files
+
+on:
+  push:
+    paths:
+      - '**.7z'
+
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up 7z
+      run: sudo apt-get install p7zip-full -y
+
+    - name: Find and unzip 7z files
+      run: |
+        for file in *.7z; do
+          # 获取文件名（不带扩展名）
+          dir_name="${file%.7z}"
+          
+          # 检查是否已经解压过
+          if [ ! -d "$dir_name" ]; then
+            # 解压文件到同名目录
+            7z x "$file" -o"$dir_name"
+            echo "Unzipped $file to $dir_name/"
+          else
+            echo "Skipping $file, already unzipped to $dir_name/"
+          fi
+        done
