@@ -1,0 +1,10 @@
+{
+  "port": 1028,
+  "GameMode": "adventure",
+  "motd": "Map Grec du cidre",
+  "UseUPnP": true,
+  "AllowCommands": true,
+  "OnlineMode": true,
+  "EnablePvP": true,
+  "CopyToClipboard": true
+}

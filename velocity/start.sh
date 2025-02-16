@@ -1,0 +1,1 @@
+java -Xmx1G -Xms1G -jar velocity-3.3.0.jar nogui

@@ -1,0 +1,78 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-11-16 21:43:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-11-16 21:43:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-11-16 21:41:34 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2021-11-16 21:41:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-11-16 21:43:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-11-16 21:43:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-11-16 21:43:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2021-11-16 21:41:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-11-16 21:43:24 +0100"
+    },
+    "done": true
+  },
+  "mostructures:root": {
+    "criteria": {
+      "very_simple_trigger": "2021-11-16 21:41:34 +0100"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2021-11-16 21:41:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2021-11-16 21:41:59 +0100",
+      "minecraft:beach": "2021-11-16 21:41:49 +0100",
+      "minecraft:river": "2021-11-16 21:41:34 +0100",
+      "minecraft:lukewarm_ocean": "2021-11-16 21:41:47 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

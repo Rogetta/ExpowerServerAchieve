@@ -1,0 +1,87 @@
+{
+  "ut:other/mini/root": {
+    "criteria": {
+      "welcome": "2024-08-14 20:17:32 +0800"
+    },
+    "done": true
+  },
+  "ut:other/credit/root": {
+    "criteria": {
+      "welcome": "2024-08-14 20:17:32 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/frisk/root": {
+    "criteria": {
+      "first": "2024-08-14 20:26:50 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/flowey/root": {
+    "criteria": {
+      "first": "2024-08-14 20:33:26 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/asriel/root": {
+    "criteria": {
+      "first": "2024-08-14 20:45:54 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/toriel/root": {
+    "criteria": {
+      "first": "2024-08-15 20:47:54 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/muffet/root": {
+    "criteria": {
+      "first": "2024-08-15 21:00:03 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/maddummy/root": {
+    "criteria": {
+      "first": "2024-08-17 21:01:13 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/papyrus/root": {
+    "criteria": {
+      "first": "2024-08-17 21:10:08 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/chara/root": {
+    "criteria": {
+      "first": "2024-08-17 21:18:07 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/flowey/lv5": {
+    "criteria": {
+      "lv5": "2024-08-17 21:38:08 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/asriel/lv5": {
+    "criteria": {
+      "lv5": "2024-08-19 19:57:18 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/alphys/root": {
+    "criteria": {
+      "first": "2024-08-19 20:05:20 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/toriel/lv5": {
+    "criteria": {
+      "lv5": "2024-08-19 21:02:08 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}

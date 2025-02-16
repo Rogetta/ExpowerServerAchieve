@@ -1,0 +1,38 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 27
+      },
+      "bonus_rolls": {
+        "min": 10.4,
+        "max": 27
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:potion",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": ""
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:web",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionColor:16763218,display:{Name:\"\\\"\u03bf \u03b9\u03b5\u03c1\u03cc\u03c2 \u03bc\u03b7\u03bb\u03af\u03c4\u03b7\u03c2\\\"\"}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "ut:chr/mettaton/root": {
+    "criteria": {
+      "first": "2024-08-14 19:30:47 +0800"
+    },
+    "done": true
+  },
+  "ut:other/mini/root": {
+    "criteria": {
+      "welcome": "2024-08-14 19:30:55 +0800"
+    },
+    "done": true
+  },
+  "ut:other/credit/root": {
+    "criteria": {
+      "welcome": "2024-08-14 19:30:55 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/undyne/root": {
+    "criteria": {
+      "first": "2024-08-14 19:36:41 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/muffet/root": {
+    "criteria": {
+      "first": "2024-08-14 20:03:50 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/asriel/root": {
+    "criteria": {
+      "first": "2024-08-14 20:17:24 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/toriel/secret": {
+    "criteria": {
+      "secret": "2024-08-14 20:26:50 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/toriel/root": {
+    "criteria": {
+      "first": "2024-08-14 20:26:50 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/chara/root": {
+    "criteria": {
+      "first": "2024-08-14 20:33:26 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/napstablook/root": {
+    "criteria": {
+      "first": "2024-08-14 20:42:07 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/mettaton/lv5": {
+    "criteria": {
+      "lv5": "2024-08-15 20:32:46 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/muffet/lv5": {
+    "criteria": {
+      "lv5": "2024-08-15 21:16:12 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/undyne/lv5": {
+    "criteria": {
+      "lv5": "2024-08-17 20:45:21 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/flowey/root": {
+    "criteria": {
+      "first": "2024-08-17 20:54:53 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/asgore/root": {
+    "criteria": {
+      "first": "2024-08-19 19:40:52 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/flowey/lv5": {
+    "criteria": {
+      "lv5": "2024-08-19 19:52:09 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/papyrus/root": {
+    "criteria": {
+      "first": "2024-08-19 21:24:29 +0800"
+    },
+    "done": true
+  },
+  "ut:other/tut/root": {
+    "criteria": {
+      "1": "2024-08-20 13:49:34 +0800"
+    },
+    "done": true
+  },
+  "ut:other/tut/tuto30": {
+    "criteria": {
+      "1": "2024-08-20 13:53:39 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/papyrus/lv5": {
+    "criteria": {
+      "lv5": "2024-08-22 19:30:37 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/alphys/root": {
+    "criteria": {
+      "first": "2024-08-22 19:37:41 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/toriel/lv5": {
+    "criteria": {
+      "lv5": "2024-08-22 20:07:22 +0800"
+    },
+    "done": true
+  },
+  "ut:other/mini/bone_parkour": {
+    "criteria": {
+      "welcome": "2024-08-24 15:37:59 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/napstablook/lv5": {
+    "criteria": {
+      "lv5": "2024-08-26 21:16:06 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/tobyfox/root": {
+    "criteria": {
+      "first": "2024-08-30 19:28:06 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/sans/root": {
+    "criteria": {
+      "first": "2024-09-15 20:43:24 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/maddummy/root": {
+    "criteria": {
+      "first": "2024-09-15 20:57:54 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}

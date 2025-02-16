@@ -1,0 +1,117 @@
+{
+  "ut:other/tut/root": {
+    "criteria": {
+      "1": "2024-08-03 20:56:07 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/sans/root": {
+    "criteria": {
+      "first": "2024-08-03 21:02:28 +0800"
+    },
+    "done": true
+  },
+  "ut:other/mini/root": {
+    "criteria": {
+      "welcome": "2024-08-03 21:02:36 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/asgore/root": {
+    "criteria": {
+      "first": "2024-08-03 21:08:29 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/frisk/root": {
+    "criteria": {
+      "first": "2024-08-03 21:14:46 +0800"
+    },
+    "done": true
+  },
+  "ut:other/credit/root": {
+    "criteria": {
+      "welcome": "2024-08-03 21:14:54 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/undyne/root": {
+    "criteria": {
+      "first": "2024-08-03 21:20:47 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/maddummy/root": {
+    "criteria": {
+      "first": "2024-08-03 21:26:13 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/alphys/root": {
+    "criteria": {
+      "first": "2024-08-03 21:29:43 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/flowey/root": {
+    "criteria": {
+      "first": "2024-08-03 21:33:51 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/mettaton/root": {
+    "criteria": {
+      "first": "2024-08-03 21:37:29 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/papyrus/root": {
+    "criteria": {
+      "first": "2024-08-03 21:46:22 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/asriel/root": {
+    "criteria": {
+      "first": "2024-08-03 21:49:54 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/muffet/root": {
+    "criteria": {
+      "first": "2024-08-03 21:52:42 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/chara/root": {
+    "criteria": {
+      "first": "2024-08-03 21:54:43 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/napstablook/root": {
+    "criteria": {
+      "first": "2024-08-03 22:15:26 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/mettatonex/root": {
+    "criteria": {
+      "first": "2024-08-04 18:05:01 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/tobyfox/root": {
+    "criteria": {
+      "first": "2024-08-04 18:16:25 +0800"
+    },
+    "done": true
+  },
+  "ut:chr/toriel/root": {
+    "criteria": {
+      "first": "2024-08-04 18:19:36 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}
